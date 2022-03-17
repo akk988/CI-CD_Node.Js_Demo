@@ -1,5 +1,5 @@
 node {
-    agent { label 'jetson-nano'}
+    agent { label 'jetson-nano' }
     def app
 
 
