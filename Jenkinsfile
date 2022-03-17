@@ -1,4 +1,7 @@
 node {
+    agent{
+        label 'jeston-nano'
+    }
     def app
 
 
