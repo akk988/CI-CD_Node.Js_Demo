@@ -1,5 +1,4 @@
 node {
-    agent jetson-nano
     def app
 
 
